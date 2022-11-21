@@ -15,3 +15,15 @@ September
 * Click Up API testing and reporting bugs to the company
 * Finished Szkoła Testowania Backendu II course 
 
+August
+
+* Szkoła Testowania Backendu II course - started learning
+
+July
+
+* Java Fundamentals - finished course
+* Szkoła Testów - unit testing course 
+
+February
+
+* Java Fundamentals (Javastart course) - started learning
