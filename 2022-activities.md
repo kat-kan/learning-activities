@@ -8,7 +8,7 @@
 ## My projects
 * [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Stack: Java 17, JUnit 5, REST Assured, Allure reports. This was my first API testing project written in Java from scratch
 * [Click Up Postman collection](https://github.com/kat-kan/clickup-api-postman) Collection of requests and tests in Postman. Includes dynamic variables and environment. I was also able to found and report some API issues on real production environment  
-* [SWAPI API Tests](https://github.com/kat-kan/clickup-api-postman) Stack: Java 17, TestNG, REST Assured, Allure, Github Actions. This project was an opportunity to learn something new on my own (without any course) - TestNG and Github Actions.
+* [SWAPI API Tests](https://github.com/kat-kan/swapi-api-tests) Stack: Java 17, TestNG, REST Assured, Allure, Github Actions. This project was an opportunity to learn something new on my own (without any course) - TestNG and Github Actions.
 
 ## Other activities
 * Hactoberfest 2022 participation
