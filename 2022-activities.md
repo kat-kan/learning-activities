@@ -11,7 +11,8 @@
 * [SWAPI API Tests](https://github.com/kat-kan/swapi-api-tests) Stack: Java 17, TestNG, REST Assured, Allure, Github Actions. This project was an opportunity to learn something new on my own (without any course) - TestNG and Github Actions.
 
 ## Other activities
-* Hactoberfest 2022 participation
+* [ConSelenium 2022](https://conselenium.pl/) participation (conference about automation testing that took place on 2nd Dec 2022)
+* [Hactoberfest 2022](https://hacktoberfest.com/) participation
   * improving Emoji Card Game by adding new decks: [Fiction Fantasy Books](https://github.com/N-Shar-ma/Emoji-Card-Game/pull/35) and [Netflix series](https://github.com/N-Shar-ma/Emoji-Card-Game/pull/60)
   * adding new personality type in Hydrate Reminder plugin for RuneLite game [Santa personality](https://github.com/jmakhack/hydrate-reminder/pull/312)
   * adding [Pull Request template](https://github.com/olamide203/hyoka/pull/20) in Hyoka - library that ensures better precision of Math expressions in JavaScript and TypeScript
