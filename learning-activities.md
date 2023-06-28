@@ -1,16 +1,25 @@
 ## Courses
+
+2022
 * **JavaStart** - Java fundamentals,including a bunch of [coding homeworks](https://github.com/kat-kan/javastart-exercises) (February-July '22)
 * **Szkoła Testów** - unit testing course by Aleksandra Kunysz. Course scope and my homeworks are stored [in this repository](https://github.com/kat-kan/szkola-testow). Passed with certificate and the course author confirmed my unit testing skills on Linkedin (July - August'22)
 * **Szkoła Testowania Backendu** by Bartosz Kita.  Course scope: **API Testing, Postman, JUnit and REST Assured in API tests automation**. Passed with certificate (August-September '22: this was actually a second time I did this course so I was able to finish it quickly)
 * **DevTools course** by Adam Gola, passed with certificate (September'22)
 * **Selenium in Java** by Testelka (November '22 - current)
 
+2023
+* **Playwright introduction** - Playwright fundamentals by [jaktestowac.pl](https://jaktestowac.pl/lesson/pw1s01l00/) I've decided to take a look at PW since it's gaining popularity (April '23- current)
+* **Learn GIT branching** - online interactive [course](https://learngitbranching.js.org/)
+
 ## My projects
+* [Fakestore Selenium Tests]( https://github.com/kat-kan/fakestore-selenium-tests) Automated UI tests for Fakestore. Page Object Model, Page Factory. Stack: Java 19, Selenium Webdriver, Maven, Junit 5
 * [Restful Booker API Tests](https://github.com/kat-kan/restful-booker-api-tests) Stack: Java 17, JUnit 5, REST Assured, Allure reports. This was my first API testing project written in Java from scratch
 * [Click Up Postman collection](https://github.com/kat-kan/clickup-api-postman) Collection of requests and tests in Postman. Includes dynamic variables and environment. I was also able to found and report some API issues on real production environment  
 * [SWAPI API Tests](https://github.com/kat-kan/swapi-api-tests) Stack: Java 17, TestNG, REST Assured, Allure, Github Actions. This project was an opportunity to learn something new on my own (without any course) - TestNG and Github Actions.
 
 ## Other activities
+
+2022
 * [ConSelenium 2022](https://conselenium.pl/) participation (conference about automation testing that took place on 2nd Dec 2022)
 * [Hactoberfest 2022](https://hacktoberfest.com/) participation
   * improving Emoji Card Game by adding new decks: [Fiction Fantasy Books](https://github.com/N-Shar-ma/Emoji-Card-Game/pull/35) and [Netflix series](https://github.com/N-Shar-ma/Emoji-Card-Game/pull/60)
@@ -19,4 +28,7 @@
   * adding [PL translation in config file and fixing a bug](https://github.com/TechWiz-3/who-unfollowed-me/pull/28) in Who Unfollowed Me, Python CLI tool showing "unfollowers" on Github
   * adding [a bunch of translation to Polish](https://github.com/CatimaLoyalty/HacktoberfestActivityLog/pull/3) for CatimaLoyalty - Android app which helps to manage loyalty cards
 * uTest - participation in a few projects that I found interesting, for example popular streaming service entering Polish market in June'22
-* active member of QA Discord community started by Adam Gola
+* active member of QA Discord community started by Adam Gola 
+
+2023
+* most active QA Discord member award ;) June '23 
