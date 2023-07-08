@@ -31,4 +31,6 @@
 * active member of QA Discord community started by Adam Gola 
 
 2023
-* most active QA Discord member award ;) June '23 
+* I got into AWS CloudUp For Her Cloud Practitioner program. Haven't started learning though (Mar '23)
+* Most active QA Discord member award ;) (June '23)
+* 15 days of Postman for testers challenge (June '23) 
