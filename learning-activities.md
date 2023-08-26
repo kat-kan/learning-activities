@@ -33,4 +33,8 @@
 2023
 * I got into AWS CloudUp For Her Cloud Practitioner program. Haven't started learning though (Mar '23)
 * Most active QA Discord member award ;) (June '23)
-* 15 days of Postman for testers challenge (June '23) 
+* 15 days of Postman for testers challenge (June '23 - Aug '23). Most interesting things I learnt about:
+  * requests with pagination and automatically looping through all pages (based on SWAPI API)
+  * mocking servers in Postman
+  * using Postman API in Newman
+  * visualizing response with HTML template
