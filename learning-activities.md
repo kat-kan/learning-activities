@@ -38,3 +38,5 @@
   * mocking servers in Postman
   * using Postman API in Newman
   * visualizing response with HTML template
+* Host and organizer of "KawQA z automatu" meetings for QAs interested in test automation (July '23 - ?)
+* Participant of "CS50 for Ready Player 50" event (Funny challenge to solve riddles by hacking AI hosted by Harvard University CS50 course and Lakerai)
